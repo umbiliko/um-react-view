@@ -1,2 +1,2 @@
-export default interface OData {
-}
+declare const _default: () => void;
+export default _default;

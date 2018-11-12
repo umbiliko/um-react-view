@@ -1,2 +1,2 @@
-export default interface LocalStorage {
-}
+declare const _default: () => void;
+export default _default;

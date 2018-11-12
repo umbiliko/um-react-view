@@ -1,1 +1,1 @@
-{"version":3,"file":"Scatter.js","sourceRoot":"","sources":["../../../src/chart/series/Scatter.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Scatter.js","sourceRoot":"","sources":["../../../src/chart/series/Scatter.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

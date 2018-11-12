@@ -1,1 +1,1 @@
-{"version":3,"file":"Tool.js","sourceRoot":"","sources":["../../src/tip/Tool.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Tool.js","sourceRoot":"","sources":["../../src/tip/Tool.tsx"],"names":[],"mappings":";;;IAKA,mBAAe,UAAC,EAAiB;YAAf,8BAAQ;QACtB,IAAM,GAAG,GAAG,gBAAM,CAAC,KAAK,CAAC,CAAC;QAE1B,OAAO,CACH,gDAAS,GAAG,EAAI,CACnB,CAAC;IACN,CAAC,EAAC"}

@@ -1,1 +1,1 @@
-{"version":3,"file":"Callout.js","sourceRoot":"","sources":["../../src/chart/Callout.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Callout.js","sourceRoot":"","sources":["../../src/chart/Callout.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

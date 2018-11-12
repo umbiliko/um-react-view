@@ -1,1 +1,1 @@
-{"version":3,"file":"Toolbar.js","sourceRoot":"","sources":["../../src/toolbar/Toolbar.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Toolbar.js","sourceRoot":"","sources":["../../src/toolbar/Toolbar.tsx"],"names":[],"mappings":";;;IAKA,mBAAe,UAAC,EAAqB;YAAnB,8BAAQ;QACtB,IAAM,OAAO,GAAG,oBAAU,CAAC,KAAK,CAAC,CAAC;QAElC,OAAO,CACH,gDAAS,OAAO,EAAI,CACvB,CAAC;IACN,CAAC,EAAC"}

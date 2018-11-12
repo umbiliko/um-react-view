@@ -1,2 +1,2 @@
-export default interface Memory {
-}
+declare const _default: () => void;
+export default _default;

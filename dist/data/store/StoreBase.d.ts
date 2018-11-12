@@ -1,2 +1,2 @@
-export default interface StoreBase {
-}
+declare const _default: () => void;
+export default _default;

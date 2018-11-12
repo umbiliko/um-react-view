@@ -1,1 +1,1 @@
-{"version":3,"file":"Mask.js","sourceRoot":"","sources":["../../src/chart/Mask.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Mask.js","sourceRoot":"","sources":["../../src/chart/Mask.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

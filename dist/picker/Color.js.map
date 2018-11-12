@@ -1,1 +1,1 @@
-{"version":3,"file":"Color.js","sourceRoot":"","sources":["../../src/picker/Color.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Color.js","sourceRoot":"","sources":["../../src/picker/Color.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

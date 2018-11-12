@@ -1,1 +1,1 @@
-{"version":3,"file":"Spacer.js","sourceRoot":"","sources":["../../src/toolbar/Spacer.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Spacer.js","sourceRoot":"","sources":["../../src/toolbar/Spacer.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

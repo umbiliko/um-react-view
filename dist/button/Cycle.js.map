@@ -1,1 +1,1 @@
-{"version":3,"file":"Cycle.js","sourceRoot":"","sources":["../../src/button/Cycle.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Cycle.js","sourceRoot":"","sources":["../../src/button/Cycle.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,mCAAU,CACb,CAAC;IACN,CAAC,EAAC"}

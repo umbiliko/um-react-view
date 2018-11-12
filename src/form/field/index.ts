@@ -16,4 +16,4 @@ export { default as Spinner } from './Spinner';
 export { default as TextField } from './Text';
 export { default as TextAreaField } from './TextArea';
 export { default as TimeField } from './Time';
-export { default as FieldTrigger } from './Trigger';
+export { default as useFieldTrigger } from './useTrigger';

@@ -1,2 +1,2 @@
-export default interface Reader {
-}
+declare const _default: () => void;
+export default _default;

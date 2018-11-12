@@ -1,2 +1,2 @@
-export default interface Direct {
-}
+declare const _default: () => void;
+export default _default;

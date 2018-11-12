@@ -1,2 +1,2 @@
-export default interface Ajax {
-}
+declare const _default: () => void;
+export default _default;

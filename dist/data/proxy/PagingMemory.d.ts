@@ -1,3 +1,2 @@
-import Memory from './Memory';
-export default interface PagingMemory extends Memory {
-}
+declare const _default: () => void;
+export default _default;

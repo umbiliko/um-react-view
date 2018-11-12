@@ -1,1 +1,1 @@
-{"version":3,"file":"Legend.js","sourceRoot":"","sources":["../../src/chart/Legend.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Legend.js","sourceRoot":"","sources":["../../src/chart/Legend.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

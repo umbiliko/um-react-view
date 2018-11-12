@@ -1,1 +1,1 @@
-{"version":3,"file":"Tab.js","sourceRoot":"","sources":["../../src/tab/Tab.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Tab.js","sourceRoot":"","sources":["../../src/tab/Tab.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

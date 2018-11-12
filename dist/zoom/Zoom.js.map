@@ -1,1 +1,1 @@
-{"version":3,"file":"Zoom.js","sourceRoot":"","sources":["../../src/zoom/Zoom.ts"],"names":[],"mappings":""}
+{"version":3,"file":"Zoom.js","sourceRoot":"","sources":["../../src/zoom/Zoom.tsx"],"names":[],"mappings":";;;IAKA,mBAAe,UAAC,EAAkB;YAAhB,8BAAQ;QACtB,IAAM,IAAI,GAAG,iBAAO,CAAC,KAAK,CAAC,CAAC;QAE5B,OAAO,CACH,gDAAS,IAAI,EAAI,CACpB,CAAC;IACN,CAAC,EAAC"}

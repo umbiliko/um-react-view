@@ -1,1 +1,1 @@
-{"version":3,"file":"CheckboxGroup.js","sourceRoot":"","sources":["../../src/form/CheckboxGroup.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"CheckboxGroup.js","sourceRoot":"","sources":["../../src/form/CheckboxGroup.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

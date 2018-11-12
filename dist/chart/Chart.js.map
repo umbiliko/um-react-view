@@ -1,1 +1,1 @@
-{"version":3,"file":"Chart.js","sourceRoot":"","sources":["../../src/chart/Chart.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Chart.js","sourceRoot":"","sources":["../../src/chart/Chart.tsx"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}

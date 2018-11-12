@@ -1,1 +1,1 @@
-{"version":3,"file":"Button.js","sourceRoot":"","sources":["../../src/button/Button.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Button.js","sourceRoot":"","sources":["../../src/button/Button.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,mCAAU,CACb,CAAC;IACN,CAAC,EAAC"}

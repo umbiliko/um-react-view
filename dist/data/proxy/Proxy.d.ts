@@ -1,2 +1,2 @@
-export default interface Proxy {
-}
+declare const _default: () => void;
+export default _default;

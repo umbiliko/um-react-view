@@ -1,1 +1,1 @@
-{"version":3,"file":"Cartesian.js","sourceRoot":"","sources":["../../../src/chart/series/Cartesian.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Cartesian.js","sourceRoot":"","sources":["../../../src/chart/series/Cartesian.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

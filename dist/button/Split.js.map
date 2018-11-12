@@ -1,1 +1,1 @@
-{"version":3,"file":"Split.js","sourceRoot":"","sources":["../../src/button/Split.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Split.js","sourceRoot":"","sources":["../../src/button/Split.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,mCAAU,CACb,CAAC;IACN,CAAC,EAAC"}

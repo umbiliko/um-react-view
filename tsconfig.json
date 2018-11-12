@@ -10,6 +10,7 @@
     "preserveConstEnums": true,
     "sourceMap": true,
     "lib": ["esnext", "dom"],
+    "jsx": "react",
     "rootDir": "src",
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,

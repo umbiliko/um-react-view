@@ -1,1 +1,1 @@
-{"version":3,"file":"Time.js","sourceRoot":"","sources":["../../../src/form/field/Time.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Time.js","sourceRoot":"","sources":["../../../src/form/field/Time.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

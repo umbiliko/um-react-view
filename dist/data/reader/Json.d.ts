@@ -1,2 +1,2 @@
-export default interface Json {
-}
+declare const _default: () => void;
+export default _default;

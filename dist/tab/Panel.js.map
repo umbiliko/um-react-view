@@ -1,1 +1,1 @@
-{"version":3,"file":"Panel.js","sourceRoot":"","sources":["../../src/tab/Panel.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Panel.js","sourceRoot":"","sources":["../../src/tab/Panel.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}

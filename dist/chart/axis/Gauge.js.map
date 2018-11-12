@@ -1,1 +1,1 @@
-{"version":3,"file":"Gauge.js","sourceRoot":"","sources":["../../../src/chart/axis/Gauge.ts"],"names":[],"mappings":";;;IACA,mBAAe;IACf,CAAC,EAAC"}
+{"version":3,"file":"Gauge.js","sourceRoot":"","sources":["../../../src/chart/axis/Gauge.tsx"],"names":[],"mappings":";;;IAGA,mBAAe;QACX,OAAO,CACH,gCAAO,CACV,CAAC;IACN,CAAC,EAAC"}
