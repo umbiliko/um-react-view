@@ -1,0 +1,11 @@
+export { default as AjaxProxy } from './Ajax';
+export { default as DirectProxy } from './Direct';
+export { default as JsonPProxy } from './JsonP';
+export { default as LocalStorageProxy } from './LocalStorage';
+export { default as MemoryProxy } from './Memory';
+export { default as ODataProxy } from './OData';
+export { default as PagingMemoryProxy } from './PagingMemory';
+export { default as Proxy } from './Proxy';
+export { default as RestProxy } from './Rest';
+export { default as SessionStorageProxy } from './SessionStorage';
+export { default as SoapProxy } from './Soap';
